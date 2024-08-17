@@ -4,7 +4,7 @@ import Nav from './Components/Nav'
 
 const App = () => {
   return (
-    <main className='relative selection:bg-red-300'>
+    <main className='relative selection:bg-red-300 '>
       <Nav /> 
       <section className='xl:padding-l wide:padding-r padding-b'>
           <Hero />Hero
